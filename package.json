@@ -1,0 +1,12 @@
+{
+  "name": "todolist",
+  "private": true,
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "„Madeleine <„madeleine.neumann@9elements.com“>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "4.0.0-alpha.5"
+  }
+}
